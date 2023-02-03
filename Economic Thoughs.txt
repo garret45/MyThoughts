@@ -1,0 +1,13 @@
+Economics
+
+My realisations, listed below will serve as the building block of all other analysis. assuming that they are true and that the underlying reasong is sound. 
+
+at a fundamental level human interationa can be ranked on a scale of pleasure and pain. henceforth denoted as 'p' the range of this scales from negative infinity to positive infinity. Where activities can have a 'p' that changes over time. Due to how humans peecive meaning ralativisticaly, an arbitry scale can be assignment to this dimention as the most meaningful or pleasurable things will 'resize' the scale
+
+The distinction between the local coordinate 'p' and the global coordinate 'P' can be made by overlaying the scales of each individual definition of 'p' to the global scale for an activity. 
+
+that relative value 'delta_v' can be defined neumericaly as the intigral of the potentual 'p' over time. where negative nombers represented discormport. two distinctions can be made. first that there is the 'delta_v' that is apparent from the amount of value that has gone into an activity. the second, the amount of value that has been saved by acquiring 'v' value. 'delta
+
+Efficiently: typically in engineering no system can have an efficentcy of more than 1. however in this context the 'e' acts as a coefficient of the (delt_v_output) / ( delta_v_input). As sometimes storing things can add to the value it is possible to get more pleasure from it than was put in.
+
+That there are only labour costs and nothing else. for example take any product or service, the price is defined as souly the total of all labor coast associated with the product. in manufacturing a product is often broken down into labor costs and not-labor costs. not-labor costs often include materials, parts, tools, tool ware, tool depreciation and transport costs. I would like to assert that this may be true of the current level of manufacturing but not true when considering all layers of production. from example a product that is the comprised of a raw material and labor can be expressed as the sum of the labor of that procces as well as the labor involved in extracting and transporting the raw material. 
