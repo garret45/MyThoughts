@@ -17,5 +17,6 @@ People tend to arange all economic activity in turms of effort.
 
 The structure should be something like
 * Hypothisis in the form of fundamental theoretical assertions 
-* Individual total change of effort as a means of 
+* Individual total change of effort
+* Methods of analysis
 
